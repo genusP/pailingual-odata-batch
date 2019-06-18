@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "pailingual-odata-batch", "pailingual-odata-batch.njsproj", "{8F0A8FC2-9FFB-4B5B-B100-7737490A3BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0A8FC2-9FFB-4B5B-B100-7737490A3BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0A8FC2-9FFB-4B5B-B100-7737490A3BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0A8FC2-9FFB-4B5B-B100-7737490A3BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0A8FC2-9FFB-4B5B-B100-7737490A3BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0DF9819-99BE-479F-A8E6-45791E9CF501}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+{
+  "name": "pailingual-odata-batch",
+  "version": "2.0.0-alpha.1",
+  "description": "Plugin for pailingual-odata for support batch requests",
+  "main": "index.js",
+  "author": {
+    "name": "Gennady Pundikov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/genusP/pailingual-odata-batch.git"
+  },
+    "scripts": {
+      "build": "tsc --build",
+      "clean": "tsc --build --clean",
+      "test": "mocha ./tests"
+    },
+    "dependencies": {
+      "pailingual-odata": "^2.0.0-alpha.2"
+    },
+    "devDependencies": {
+      "@types/chai": "^4.1.7",
+      "@types/mocha": "^5.2.7",
+      "@types/node": "^8.0.14",
+      "chai": "^4.2.0",
+      "mocha": "^5.2.0",
+      "node-fetch": "^2.6.0",
+      "typescript": "^3.2.2"
+    }
+  }
